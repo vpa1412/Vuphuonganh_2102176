@@ -1,9 +1,10 @@
 **HEART FAILURE PREDICTION**
+
 *Vu Phuong Anh-2102176*
 
-**Modivation**
+**Motivation**
 
-The motivation of this homework is to apply Bayesian statisticss in building model to detect early the clinical condition of the patient's heart to avoid complications that can harm him in the future. and if he has symptoms. Simultaneously, benchmarking performance among some classification model: Naive Bayes, SVM, Decision Tree, Logistic Regression.
+The motivation of this homework is to apply Bayesian statisticss in building model to detect early the clinical condition of the patient's heart to avoid complications that can harm him in the future, and if he has symptoms. Simultaneously, benchmarking performance among some classification model: Naive Bayes, SVM, Decision Tree, Logistic Regression.
 
 **Dataset**
 
@@ -19,11 +20,15 @@ Every dataset used can be found under the Index of heart disease datasets from U
 
 **WORK FLOW**
 
-1. Read and understand the data about people having sign of Cardiovascular diseases in file heart.csv and some very first line code in Homework1.ipynb.
+1. Reading and understanding the data about people having sign of Cardiovascular diseases in file heart.csv and some very first line code in Homework1.ipynb.
 
-2. See the correlation matrix and distribution of 11 features denote as X and the output denote as Y which model classify a person has heart disease[1] or normal[0]. 
+2. Seeing the correlation matrix and distribution of 11 features denote as X and the output denote as Y which model classify a person has heart disease[1] or normal[0]. 
     
-    In 11 features, there are 2 types: Categorical Features['Sex', 'ChestPainType', 'FastingBS', 'RestingECG', 'ExerciseAngina', 'ST_Slope'] and Numerical Features['Age', 'RestingBP', 'Cholesterol', 'MaxHR', 'Oldpeak'].
+    In 11 features, there are 2 types: 
+
+        - Categorical Features['Sex', 'ChestPainType', 'FastingBS', 'RestingECG', 'ExerciseAngina', 'ST_Slope']
+   
+        - Numerical Features['Age', 'RestingBP', 'Cholesterol', 'MaxHR', 'Oldpeak'].
 
 3. Detecting outliers and removing them for better training model.
 
