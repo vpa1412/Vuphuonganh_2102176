@@ -1,0 +1,259 @@
+Timestamp,City,Country,Temperature (°C),Feels Like (°C),Humidity (%),Wind Speed (m/s),Weather Description
+2025-03-03 08:03:45,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:03:45,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:03:45,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:04:15,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:04:15,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:04:16,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:04:46,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:04:46,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:04:46,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:05:16,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:05:16,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:05:16,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:05:47,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:05:47,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:05:47,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:06:17,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:06:17,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:06:17,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:06:47,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:06:47,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:06:48,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:07:18,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:07:18,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:07:18,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:07:48,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:07:48,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:07:48,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:08:18,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:08:19,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:08:19,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:08:49,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:08:49,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:08:49,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:09:19,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:09:19,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:09:19,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:09:50,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:09:50,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:09:50,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:10:20,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:10:20,Hue,VN,25.15,25.73,77,1.08,few clouds
+2025-03-03 08:10:20,Ho Chi Minh City,VN,27.04,28.51,65,3.55,broken clouds
+2025-03-03 08:10:50,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:10:51,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:10:51,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:11:21,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:11:21,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:11:21,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:11:51,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:11:51,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:11:51,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:12:22,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:12:22,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:12:22,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:12:52,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:12:52,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:12:52,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:13:22,Hanoi,VN,21.81,22.32,87,2.14,overcast clouds
+2025-03-03 08:13:22,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:13:23,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:13:53,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:13:53,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:13:53,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:14:23,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:14:23,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:14:23,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:14:53,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:14:53,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:14:54,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:15:24,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:15:24,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:15:24,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:15:54,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:15:54,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:15:54,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:16:25,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:16:25,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:16:25,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:16:55,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:16:55,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:16:55,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:17:26,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:17:26,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:17:26,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:17:56,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:17:56,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:17:56,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:18:26,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:18:26,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:18:27,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:18:57,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:18:57,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:18:57,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:19:27,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:19:27,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:19:27,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:19:57,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:19:57,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:19:58,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:20:28,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:20:28,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:20:28,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:20:58,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:20:58,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:20:58,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:21:29,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:21:29,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:21:29,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:21:59,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:21:59,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:21:59,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:22:29,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:22:29,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:22:30,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:23:00,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:23:00,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:23:00,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:23:30,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:23:30,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:23:30,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:24:00,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:24:01,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:24:01,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:24:31,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:24:31,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:24:31,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:25:01,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:25:01,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:25:02,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:25:32,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:25:32,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:25:32,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:25:50,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:25:50,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:25:50,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:26:02,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:26:02,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:26:02,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:26:20,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:26:20,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:26:20,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:26:32,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:26:33,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:26:33,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:26:50,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:26:50,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:26:50,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:27:03,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:27:03,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:27:03,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:27:20,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:27:20,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:27:20,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:27:33,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:27:33,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:27:33,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:27:51,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:27:51,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:27:51,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:28:04,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:28:04,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:28:04,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:28:34,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:28:34,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:28:34,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:28:34,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:28:35,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:28:35,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:29:04,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:29:05,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:29:05,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:29:35,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:29:35,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:29:35,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:29:35,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:29:35,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:29:35,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:30:06,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:30:06,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:30:06,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:30:35,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:30:35,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:30:35,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:30:36,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:30:36,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:30:36,Ho Chi Minh City,VN,26.99,28.36,64,3.24,Scattered clouds
+2025-03-03 08:30:36,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:30:36,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:30:36,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:31:06,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:31:06,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:31:06,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:31:06,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:31:06,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:31:07,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:31:36,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:31:36,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:31:36,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:31:37,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:31:37,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:31:37,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:32:06,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:32:06,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:32:06,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:32:07,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:32:07,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:32:07,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:32:37,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:32:38,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:32:38,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:33:08,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:33:08,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:33:08,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:33:34,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:33:34,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:33:34,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:33:35,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:33:35,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:33:35,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:33:37,Hanoi,VN,22,22.5,86,2.28,Overcast clouds
+2025-03-03 08:33:37,Hue,VN,25.14,25.67,75,1.1,Few clouds
+2025-03-03 08:33:37,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:33:38,Hanoi,VN,22,22.5,86,2.28,overcast clouds
+2025-03-03 08:33:38,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:33:38,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:34:09,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:34:09,Hue,VN,25.14,25.67,75,1.1,few clouds
+2025-03-03 08:34:09,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:34:40,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:34:40,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:34:40,Ho Chi Minh City,VN,26.99,28.36,64,3.24,scattered clouds
+2025-03-03 08:35:10,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:35:10,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:35:10,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:35:40,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:35:40,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:35:40,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:36:11,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:36:11,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:36:11,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:36:41,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:36:41,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:36:41,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:37:11,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:37:11,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:37:12,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:37:42,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:37:42,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:37:42,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:38:12,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:38:12,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:38:12,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
+2025-03-03 08:38:34,Hanoi,VN,22.63,23.09,82,2.62,Overcast clouds
+2025-03-03 08:38:34,Hue,VN,27.76,29.86,67,0.91,Few clouds
+2025-03-03 08:38:34,Ho Chi Minh City,VN,29.24,30.52,54,3.47,Broken clouds
+2025-03-03 08:38:42,Hanoi,VN,22.63,23.09,82,2.62,overcast clouds
+2025-03-03 08:38:43,Hue,VN,27.76,29.86,67,0.91,few clouds
+2025-03-03 08:38:43,Ho Chi Minh City,VN,29.24,30.52,54,3.47,broken clouds
